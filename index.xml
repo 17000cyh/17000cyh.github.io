@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend</title>
+    
+    
+    
+    <link>https://17000cyh.github.io/</link>
+    <description>Recent content on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://17000cyh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://17000cyh.github.io/showcase/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://17000cyh.github.io/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is the first time I use hugo to create my blog.
+Hugo is a powerful tool to help us build our own blog space. It helps us to be focus on the content instead of getting in the trap of technology problems.
+However during the proceed of learning it, I found it wouldn&amp;rsquo;t be so convenient to create our own characteristic blog, because totally we use other&amp;rsquo;s framework. That suggests I should pay more attention to master more related technologies in the future.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://17000cyh.github.io/about/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://17000cyh.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Basic Information  Name: Chen Yuhang(陈雨航) From: Department of Information Management, PeKing University  Skills  Python, Java, C, C++ ANN, CNN, DNN, RNN  ##Research Experience
+ Research Assistant to Professor Wang Research of poets in Tang Dynasty based on CBDB  
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://17000cyh.github.io/post/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://17000cyh.github.io/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://17000cyh.github.io/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://17000cyh.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://17000cyh.github.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
